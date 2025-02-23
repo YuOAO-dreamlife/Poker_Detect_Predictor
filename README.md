@@ -420,10 +420,10 @@ else 皆為散牌
 ### ●	工作分配
 | 組員 | 工作 |
 | ------------- | ------------- |
-| @turtledove34 | 判定機制設計、簡報、word製作 |
-| @yuyuson | 圖形處理設計、簡報、word製作 |
-| @hanson4226 | 判定機制設計、簡報、word製作 |
-| @YuOAO-dreamlife | 圖形處理設計、簡報、word製作 |
+| [@turtledove34](https://github.com/turtledove34) | 判定機制設計、簡報、word製作 |
+| [@yuyuson](https://github.com/yuyuson) | 圖形處理設計、簡報、word製作 |
+| [@hanson4226](https://github.com/hanson4226) | 判定機制設計、簡報、word製作 |
+| [@YuOAO-dreamlife](https://github.com/YuOAO-dreamlife) | 圖形處理設計、簡報、word製作 |
 
 ### ●	參考資料
 [1] [擷取螢幕畫面參考](https://hutdris.blogspot.com/2016/11/pythonopencv.html)  
